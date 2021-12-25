@@ -1,9 +1,9 @@
 {
   "extra_cmdline": {
-    "vid": "0x46f4",
-    "pid": "0x0001",
-    "sn": "1350PDN001692",
-    "mac1": "001132C7065E"
+    // "vid": "0x46f4",
+    // "pid": "0x0001",
+    "sn": "1740LWN002032",
+    "mac1": "02A39C80D7C6"
   },
   "synoinfo": {
     "supportsystemperature": "no",
